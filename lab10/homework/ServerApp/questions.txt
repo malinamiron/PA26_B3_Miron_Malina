@@ -1,0 +1,3 @@
+Care este capitala Frantei?|Paris,Londra,Berlin,Madrid|1|10
+Cat face 5+5?|8,10,12,15|2|5
+Cine a scris Luceafarul?|Bacovia,Arghezi,Eminescu,Cartarescu|3|15
